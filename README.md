@@ -12,7 +12,7 @@ A simple and clean to-do list app built with **HTML, CSS, and JavaScript** — n
 
 ## 📸 Screenshots
 
-![Todo App Screenshot](https://via.placeholder.com/800x400?text=Add+Your+Screenshot+Here)
+![Todo App Screenshot](https://via.placeholder.com/800x400?text=assets/todoScreenshot.PNG)
 
 ## 🛠 Tech Stack
 
@@ -23,8 +23,11 @@ A simple and clean to-do list app built with **HTML, CSS, and JavaScript** — n
 ## 📦 Installation
 
 1. Clone the repo:
+
    ```bash
    git clone https://github.com/Laawigit/Todo-App.git
+
+   ```
 
 2. Open index.html in your browser.
 
@@ -51,5 +54,3 @@ Pull requests are welcome! If you’ve got an idea, suggestion, or bug fix — f
 
 🧙‍♂️ Author
 Laawi — GitHub Profile
-
-
