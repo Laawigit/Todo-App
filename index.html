@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Todo-list</title>
+    <link rel="stylesheet" href="styles/style.css" />
+  </head>
+  <body>
+    <div>
+    <h1>Welcome to my first project</h1>
+    <p>The project is a simple todo-list app</p>
+      </div>
+      <div>
+        <div class="form-container js-form-container"></div>
+      <form class="todo-list-form js-todo-list-form">
+        <input
+          type="text"
+          name="todo-name"
+          class="todo-input-name js-todo-input-name"
+          placeholder="task name"
+        />
+        <input
+         type="date" 
+         class="todo-input-date js-todo-input-date"
+         name="todo-date"
+          />
+        <div class="buttons-container">
+          <button class="add-task-button js-add-task-button">Add task</button>
+          <button class="cancel-task-button js-cancel-task-button" type="reset">
+            Cancel
+          </button>
+        </div>
+      </form>
+    </div>
+      </div>
+    
+      <div class="outer-task-list-container">
+        <label class="Completed-label">
+          <input type="checkbox" class="completed-input js-completed-input">
+          Completed all
+          </label>
+
+        <div class="task-list-container js-task-list-container"></div>
+        </div>
+      </div>
+    
+
+    <script src="scripts/app.js"></script>
+  </body>
+</html>
