@@ -12,7 +12,7 @@ A simple and clean to-do list app built with **HTML, CSS, and JavaScript** — n
 
 ## 📸 Screenshots
 
-![Todo App Screenshot](assets/screenshot.png)
+![Todo App Screenshot](assets/todoScreenshot.PNG)
 
 ## 🛠 Tech Stack
 
